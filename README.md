@@ -19,5 +19,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SingingApple&show_icons=true)
 
 
-
-
+<img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  

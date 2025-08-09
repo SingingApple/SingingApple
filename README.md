@@ -2,7 +2,8 @@
 
 Software Development Engineer
 
-Contact: +91 9839545115 • anurag.as.srivastava@gmail.com • Noida, India • [GitHub](https://github.com/SingingApple) • [Portfolio](https://singingapple.com) • [LinkedIn](https://linkedin.com/in/singingapple)
+[![Gmail Badge](https://img.shields.io/badge/anurag.as.srivastava@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:anurag.as.srivastava@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=SingingApple" alt="Anurag Srivastava">
 
 ### Summary
 

@@ -1,21 +1,22 @@
 # Anurag Srivastava
 
-[![Gmail Badge](https://img.shields.io/badge/anurag.as.srivastava@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:anurag.as.srivastava@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=SingingApple" alt="Anurag Srivastava">
+Software Development Engineer
 
-## Hi there 👋,           
-##### You may call me Anurag Srivastava. Currently pursuing my Bachelor of Technology in Information Technology. Well, we're all still learning so I'm no different.
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+Contact: +91 9839545115 • anurag.as.srivastava@gmail.com • Noida, India • [GitHub](https://github.com/SingingApple) • [Portfolio](https://singingapple.com) • [LinkedIn](https://linkedin.com/in/singingapple)
 
-## 🧐 Keep on reading
-- 🏄‍ Web Developer
-- 🌱 I’m learning everything I can at the moment.
-- 😄 Trying my hand on open source projects.
-- 🔭 I'm currently a member of NCS JSSATEN.
-- 🤔 Maybe you could help me with frontend.
-- 🎨 Fun fact: In my free time, you'll find me on spotify vibing to some songs.
-- 📫 How to reach me: mail me at [anurag.as.srivastava@gmail.com](mailto:anurag.as.srivastava@gmail.com)
+### Summary
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SingingApple&show_icons=true)
+A software development engineer with 4 years of experience building scalable UI and backend logic for decentralized Web3 applications. I specialize in crafting intuitive user interfaces with thoughtful design and smooth animations, while ensuring seamless integration with backend services. I’ve built a reusable UI component library and thrive in collaborative, fast‑paced environments. Passionate about sports, I’m currently diving deep into generative AI and its real‑world applications.
 
-<img src="https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif"  width="100%" height="200px"/>  
+### Skills
+
+- Languages: C/C++, JavaScript, TypeScript
+- Frontend: React, Next.js, React Query, Redux, Tailwind CSS, Storybook
+- Backend: Node.js, Express.js, Prisma
+- Web3: Ethers.js, Thirdweb, Smart Contracts, Privy
+- DevOps: Docker, CircleCI/CD, AWS (S3, ECR, ECS), Kafka, Redis
+- Data: MongoDB
+- Practices: SDK Development, Scaling Architecture
+
+<img src="https://vincentgarreau.com/particles.js/assets/img/
+kbLd9vb_new.gif"  width="100%" height="200px"/>
